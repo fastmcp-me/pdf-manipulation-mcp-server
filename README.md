@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1351/pdf-manipulation)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1351/pdf-manipulation)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1351/pdf-manipulation)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1351/pdf-manipulation)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1351/pdf-manipulation)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1351/pdf-manipulation)
+
 # PDF Manipulation MCP Server
 
 > **📚 This project is entirely based on [PyMuPDF](https://pymupdf.readthedocs.io/) - a powerful Python library for PDF manipulation. Please check out the official PyMuPDF documentation to learn more about its extensive capabilities!**
